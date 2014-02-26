@@ -1,7 +1,7 @@
 spring-ex06-validation
 ======================
 
-This example builds on spring-ex05, where we add Twitter Bootstrap to the Spring/Thymeleaf CRUD pages.  In this example, we add validation through javax, hibernate, and spring.  The display pages are also update to display error messages.
+This example builds on spring-ex06-validation, where we added validation through javax, hibernate, and spring.  The display pages were also updated to display error messages.  In this example, Thymeleaf templates are used and a Bootstrap theme, SB-Admin-V2, is integrated into the example.
 
 This example has been validated with the following environment on MS Windows 7:
 
