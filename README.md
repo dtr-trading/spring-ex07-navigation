@@ -1,4 +1,4 @@
-spring-ex06-validation
+spring-ex07-navigation
 ======================
 
 This example builds on spring-ex06-validation, where we added validation through javax, hibernate, and spring.  The display pages were also updated to display error messages.  In this example, Thymeleaf templates are used and a Bootstrap theme, SB-Admin-V2, is integrated into the example.
